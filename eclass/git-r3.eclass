@@ -450,6 +450,12 @@ _git-r3_set_submodules() {
 		# https://github.com/git/git/blob/master/refs.c#L39
 		# for now, we just filter /. because of #572312
 		local enc_subname=${subname//\/.//_}
+		# Similarly, filter spaces. Some more of these are
+		# needed to handle all the cases. See
+		# https://bugs.gentoo.org/show_bug.cgi?id=606950 and
+		# https://bugs.gentoo.org/show_bug.cgi?id=572312#c3
+		# for reference.
+		enc_subname="${enc_subname// }"
 		[[ ${enc_subname} == .* ]] && enc_subname=_${enc_subname#.}
 
 		submodules+=(
