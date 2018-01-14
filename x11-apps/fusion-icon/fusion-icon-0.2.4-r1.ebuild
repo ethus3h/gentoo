@@ -26,10 +26,20 @@ RDEPEND="
 	<x11-wm/compiz-0.9
 	gtk2? (
 		dev-libs/libappindicator:2
+<<<<<<< HEAD
 	)
 	gtk3? (
 		dev-libs/libappindicator:3
 	)
+=======
+		x11-wm/compiz[-gtk3]
+	)
+	gtk3? (
+		dev-libs/libappindicator:3
+		x11-wm/compiz[gtk3]
+	)
+	!gtk3? ( x11-wm/compiz[gtk(+),-gtk3] )
+>>>>>>> 12a85b15018edc0ee83084acf6c0382607b88cf6
 	qt4? ( dev-python/PyQt4[${PYTHON_USEDEP}] )
 	qt5? ( dev-python/PyQt5[${PYTHON_USEDEP}] )
 "
