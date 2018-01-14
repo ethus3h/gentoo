@@ -1,45 +1,46 @@
-  2017oct24-compiz-rebased-1                             4238c86db33 x11-wm/compiz-meta: Add live ebuild
-  2017oct24-compiz-rebased-2                             1a37c7018c7 x11-wm/compiz-meta: Add live ebuild
-  2017oct30-compiz-rebased                               b65ae3c2296 x11-wm/compiz-meta: Add live ebuild
-  2017oct31-rebased                                      acaad401b6c x11-wm/compiz-meta: Add live ebuild
-  2018jan11-compiz-rebased-3                             12a85b15018 x11-wm/compiz-meta: Add live ebuild
-  2018jan11a12-compiz-rebased                            2487808062d x11-wm/compiz-meta: Add live ebuild
-  2018jan11a12n2-compiz-rebased                          d263c00b1e3 x11-wm/compiz-meta: Add live ebuild
-  2018jan11a12n3-compiz-rebased                          b82b5de99e0 x11-wm/compiz-meta: Add live ebuild
-  2018jan12-compiz-rebased                               372849c221e x11-wm/compiz-meta: Add live ebuild
-  2018jan12n2-compiz-rebased                             60dc2856e5b x11-wm/compiz-meta: Add live ebuild
-  2018jan12n3-compiz-rebased                             58a344ea2cb x11-wm/compiz: Update to version 0.8.14
-  2018jan12n4-compiz-rebased                             60dc2856e5b x11-wm/compiz-meta: Add live ebuild
-  2018jan12n5-compiz-rebased                             308fda9e3db x11-wm/compiz-meta: Add live ebuild
-  compiz-2017oct23                                       1877441d910 x11-wm/compiz-meta: Add live ebuild
-  compiz-2018jan11                                       8839d8c2301 [ahead 5] merge changes from upstream
-  compiz-2018jan11-backup-diverged-from-origin-2018jan13 fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
-  compiz-2018jan11n2-git-branch-test                     fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
-  compiz-2018jan11n3-rebased                             fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
-  upstream                                               1877441d910 x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/2017jan23-gitr                          862e7baeda4 git-r3: filter spaces from submodule ref name
-  remotes/origin/2017oct24-compiz-rebased-1              4238c86db33 x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/2017oct24-compiz-rebased-2              1a37c7018c7 x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/2017oct30-compiz-rebased                b65ae3c2296 x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/2017oct31-rebased                       acaad401b6c x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/2018jan11-compiz-rebased-3              12a85b15018 x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/2018jan11a12-compiz-rebased             2487808062d x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/2018jan11a12n2-compiz-rebased           d263c00b1e3 x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/2018jan11a12n3-compiz-rebased           b82b5de99e0 x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/2018jan12-compiz-rebased                372849c221e x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/2018jan12n2-compiz-rebased              60dc2856e5b x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/2018jan12n3-compiz-rebased              58a344ea2cb x11-wm/compiz: Update to version 0.8.14
-  remotes/origin/2018jan12n4-compiz-rebased              60dc2856e5b x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/2018jan12n5-compiz-rebased              308fda9e3db x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/HEAD                                    -> origin/master
-  remotes/origin/compiz-2017oct23                        1877441d910 x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/compiz-2018jan11                        12a85b15018 x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/compiz-2018jan11n2-git-branch-test      fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/compiz-2018jan11n3-rebased              fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
-  remotes/origin/gentoo-clean-2017oct23                  6e95b4d1bec dev-libs/libburn: Disable the use of cdio as recommended by upstream.
-  remotes/origin/sep-usr                                 fc357e4232b dev-libs/libpcre: switch to sep-usr eclass
-  remotes/origin/upstream                                1877441d910 x11-wm/compiz-meta: Add live ebuild
-  remotes/upstream/dev-erlang-bumps                      7e79e1c7415 rebar.eclass: Disable coverage in test phase
-  remotes/upstream/master                                553faa3a633 app-vim/ctx: add vim with built-in Perl support to DEPEND.
-  remotes/upstream/repoman                               d5dafa761b7 metadata/repoman/repository.yml: New config
-  remotes/upstream/sep-usr                               fc357e4232b dev-libs/libpcre: switch to sep-usr eclass
+  2017oct24-compiz-rebased-1                                            4238c86db33 x11-wm/compiz-meta: Add live ebuild
+  2017oct24-compiz-rebased-2                                            1a37c7018c7 x11-wm/compiz-meta: Add live ebuild
+  2017oct30-compiz-rebased                                              b65ae3c2296 x11-wm/compiz-meta: Add live ebuild
+  2017oct31-rebased                                                     acaad401b6c x11-wm/compiz-meta: Add live ebuild
+  2018jan11-compiz-rebased-3                                            12a85b15018 x11-wm/compiz-meta: Add live ebuild
+  2018jan11a12-compiz-rebased                                           2487808062d x11-wm/compiz-meta: Add live ebuild
+  2018jan11a12n2-compiz-rebased                                         d263c00b1e3 x11-wm/compiz-meta: Add live ebuild
+  2018jan11a12n3-compiz-rebased                                         b82b5de99e0 x11-wm/compiz-meta: Add live ebuild
+  2018jan12-compiz-rebased                                              372849c221e x11-wm/compiz-meta: Add live ebuild
+  2018jan12n2-compiz-rebased                                            60dc2856e5b x11-wm/compiz-meta: Add live ebuild
+  2018jan12n3-compiz-rebased                                            58a344ea2cb x11-wm/compiz: Update to version 0.8.14
+  2018jan12n4-compiz-rebased                                            60dc2856e5b x11-wm/compiz-meta: Add live ebuild
+  2018jan12n5-compiz-rebased                                            308fda9e3db x11-wm/compiz-meta: Add live ebuild
+  compiz-2017oct23                                                      1877441d910 x11-wm/compiz-meta: Add live ebuild
+  compiz-2018jan11                                                      8839d8c2301 merge changes from upstream
+  compiz-2018jan11-backup-diverged-from-origin-2018jan13                fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
+  compiz-2018jan11n2-git-branch-test                                    fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
+  compiz-2018jan11n3-rebased                                            fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
+  upstream                                                              1877441d910 x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/2017jan23-gitr                                         862e7baeda4 git-r3: filter spaces from submodule ref name
+  remotes/origin/2017oct24-compiz-rebased-1                             4238c86db33 x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/2017oct24-compiz-rebased-2                             1a37c7018c7 x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/2017oct30-compiz-rebased                               b65ae3c2296 x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/2017oct31-rebased                                      acaad401b6c x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/2018jan11-compiz-rebased-3                             12a85b15018 x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/2018jan11a12-compiz-rebased                            2487808062d x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/2018jan11a12n2-compiz-rebased                          d263c00b1e3 x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/2018jan11a12n3-compiz-rebased                          b82b5de99e0 x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/2018jan12-compiz-rebased                               372849c221e x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/2018jan12n2-compiz-rebased                             60dc2856e5b x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/2018jan12n3-compiz-rebased                             58a344ea2cb x11-wm/compiz: Update to version 0.8.14
+  remotes/origin/2018jan12n4-compiz-rebased                             60dc2856e5b x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/2018jan12n5-compiz-rebased                             308fda9e3db x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/HEAD                                                   -> origin/master
+  remotes/origin/compiz-2017oct23                                       1877441d910 x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/compiz-2018jan11                                       8839d8c2301 merge changes from upstream
+  remotes/origin/compiz-2018jan11-backup-diverged-from-origin-2018jan13 fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/compiz-2018jan11n2-git-branch-test                     fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/compiz-2018jan11n3-rebased                             fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/gentoo-clean-2017oct23                                 6e95b4d1bec dev-libs/libburn: Disable the use of cdio as recommended by upstream.
+  remotes/origin/sep-usr                                                fc357e4232b dev-libs/libpcre: switch to sep-usr eclass
+  remotes/origin/upstream                                               1877441d910 x11-wm/compiz-meta: Add live ebuild
+  remotes/upstream/dev-erlang-bumps                                     7e79e1c7415 rebar.eclass: Disable coverage in test phase
+  remotes/upstream/master                                               553faa3a633 app-vim/ctx: add vim with built-in Perl support to DEPEND.
+  remotes/upstream/repoman                                              d5dafa761b7 metadata/repoman/repository.yml: New config
+  remotes/upstream/sep-usr                                              fc357e4232b dev-libs/libpcre: switch to sep-usr eclass

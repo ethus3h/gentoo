@@ -32,7 +32,8 @@ b82b5de99e03c2a21d70585f641c982ace5f151e refs/remotes/origin/2018jan11a12n3-comp
 60dc2856e5bd5ab94aaf9aab1cb30afbdd07b951 refs/remotes/origin/2018jan12n4-compiz-rebased
 308fda9e3db946c011d7b8276037a338d30452b0 refs/remotes/origin/2018jan12n5-compiz-rebased
 1877441d91050cfd9294b30e36531a0f5d2a8002 refs/remotes/origin/compiz-2017oct23
-12a85b15018edc0ee83084acf6c0382607b88cf6 refs/remotes/origin/compiz-2018jan11
+8839d8c2301a4a96bd0b0e20d87ea89e5bff69ea refs/remotes/origin/compiz-2018jan11
+fc23f43bab5eef98aa840bb4d9963989373a72ee refs/remotes/origin/compiz-2018jan11-backup-diverged-from-origin-2018jan13
 fc23f43bab5eef98aa840bb4d9963989373a72ee refs/remotes/origin/compiz-2018jan11n2-git-branch-test
 fc23f43bab5eef98aa840bb4d9963989373a72ee refs/remotes/origin/compiz-2018jan11n3-rebased
 6e95b4d1bec607238ad51cbd37646f1302010769 refs/remotes/origin/gentoo-clean-2017oct23
