@@ -19,6 +19,7 @@
   remotes/origin/compiz-2018jan11-backup-diverged-from-origin-2018jan13 fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
   remotes/origin/compiz-2018jan11n2-git-branch-test                     fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
   remotes/origin/compiz-2018jan11n3-rebased                             fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/compiz-rebased-2018feb05                               903507cd000 x11-wm/compiz-meta: Add live ebuild
   remotes/origin/gentoo-clean-2017oct23                                 6e95b4d1bec dev-libs/libburn: Disable the use of cdio as recommended by upstream.
   remotes/origin/sep-usr                                                fc357e4232b dev-libs/libpcre: switch to sep-usr eclass
   remotes/origin/upstream                                               1877441d910 x11-wm/compiz-meta: Add live ebuild
