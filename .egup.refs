@@ -1,4 +1,10 @@
+a5f04562d35f3b97539ec0a25314fd72bd5d86f1 refs/heads/compiz-2017oct23
 903507cd00066f8e3e778f0eb0e319a71fb5ab65 refs/heads/compiz-rebased-2018feb05
+632e74c9107d780329fe12d9d17ac3a8543245aa refs/heads/compiz-rebased-2018feb06
+632a2bbf5c2b578a0a6c1497ca5839afb121b54e refs/heads/compiz-rebased-2018feb07
+b44b1700edcff3da4a935bf9ca0e1efa14d0e6b8 refs/heads/compiz-rebased-2018feb07n2
+0d9d2d1c65de33285598389c627b1b0d46d0f7e9 refs/heads/compiz-rebased-2018feb07n3
+40e8ca0d2be44a4aaa1947e945c38630f7cc9119 refs/heads/upstream
 862e7baeda43feeab53d8ede1b5f6676b35ee612 refs/remotes/origin/2017jan23-gitr
 4238c86db33b9414d827657d62cd415182c4e3a7 refs/remotes/origin/2017oct24-compiz-rebased-1
 1a37c7018c7b07b8bef92e605d41808640176568 refs/remotes/origin/2017oct24-compiz-rebased-2
@@ -13,7 +19,7 @@ b82b5de99e03c2a21d70585f641c982ace5f151e refs/remotes/origin/2018jan11a12n3-comp
 58a344ea2cb42dd12e9131fd42ddbefdfe9af3d5 refs/remotes/origin/2018jan12n3-compiz-rebased
 60dc2856e5bd5ab94aaf9aab1cb30afbdd07b951 refs/remotes/origin/2018jan12n4-compiz-rebased
 308fda9e3db946c011d7b8276037a338d30452b0 refs/remotes/origin/2018jan12n5-compiz-rebased
-903507cd00066f8e3e778f0eb0e319a71fb5ab65 refs/remotes/origin/compiz-2017oct23
+a5f04562d35f3b97539ec0a25314fd72bd5d86f1 refs/remotes/origin/compiz-2017oct23
 8839d8c2301a4a96bd0b0e20d87ea89e5bff69ea refs/remotes/origin/compiz-2018jan11
 fc23f43bab5eef98aa840bb4d9963989373a72ee refs/remotes/origin/compiz-2018jan11-backup-diverged-from-origin-2018jan13
 fc23f43bab5eef98aa840bb4d9963989373a72ee refs/remotes/origin/compiz-2018jan11n2-git-branch-test
@@ -22,3 +28,7 @@ fc23f43bab5eef98aa840bb4d9963989373a72ee refs/remotes/origin/compiz-2018jan11n3-
 6e95b4d1bec607238ad51cbd37646f1302010769 refs/remotes/origin/gentoo-clean-2017oct23
 fc357e4232bc39131741ba96c54d98f6ef38d56a refs/remotes/origin/sep-usr
 1877441d91050cfd9294b30e36531a0f5d2a8002 refs/remotes/origin/upstream
+7e79e1c7415935d306e6c548e9068fc659837ac9 refs/remotes/upstream/dev-erlang-bumps
+40e8ca0d2be44a4aaa1947e945c38630f7cc9119 refs/remotes/upstream/master
+d5dafa761b7b2bf853c4ed2ecb68a00781d5b2b5 refs/remotes/upstream/repoman
+fc357e4232bc39131741ba96c54d98f6ef38d56a refs/remotes/upstream/sep-usr

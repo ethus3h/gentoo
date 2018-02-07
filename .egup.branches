@@ -1,4 +1,10 @@
+  compiz-2017oct23                                                      a5f04562d35 x11-wm/compiz-meta: Add live ebuild
   compiz-rebased-2018feb05                                              903507cd000 x11-wm/compiz-meta: Add live ebuild
+  compiz-rebased-2018feb06                                              632e74c9107 x11-wm/compiz-meta: Add live ebuild
+  compiz-rebased-2018feb07                                              632a2bbf5c2 x11-wm/compiz: Update to version 0.8.14
+  compiz-rebased-2018feb07n2                                            b44b1700edc x11-wm/compiz-meta: Add live ebuild
+  compiz-rebased-2018feb07n3                                            0d9d2d1c65d x11-wm/compiz-meta: Add live ebuild
+  upstream                                                              40e8ca0d2be media-libs/opencv: add missing patch
   remotes/origin/2017jan23-gitr                                         862e7baeda4 git-r3: filter spaces from submodule ref name
   remotes/origin/2017oct24-compiz-rebased-1                             4238c86db33 x11-wm/compiz-meta: Add live ebuild
   remotes/origin/2017oct24-compiz-rebased-2                             1a37c7018c7 x11-wm/compiz-meta: Add live ebuild
@@ -14,7 +20,7 @@
   remotes/origin/2018jan12n4-compiz-rebased                             60dc2856e5b x11-wm/compiz-meta: Add live ebuild
   remotes/origin/2018jan12n5-compiz-rebased                             308fda9e3db x11-wm/compiz-meta: Add live ebuild
   remotes/origin/HEAD                                                   -> origin/master
-  remotes/origin/compiz-2017oct23                                       903507cd000 x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/compiz-2017oct23                                       a5f04562d35 x11-wm/compiz-meta: Add live ebuild
   remotes/origin/compiz-2018jan11                                       8839d8c2301 merge changes from upstream
   remotes/origin/compiz-2018jan11-backup-diverged-from-origin-2018jan13 fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
   remotes/origin/compiz-2018jan11n2-git-branch-test                     fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
@@ -23,3 +29,7 @@
   remotes/origin/gentoo-clean-2017oct23                                 6e95b4d1bec dev-libs/libburn: Disable the use of cdio as recommended by upstream.
   remotes/origin/sep-usr                                                fc357e4232b dev-libs/libpcre: switch to sep-usr eclass
   remotes/origin/upstream                                               1877441d910 x11-wm/compiz-meta: Add live ebuild
+  remotes/upstream/dev-erlang-bumps                                     7e79e1c7415 rebar.eclass: Disable coverage in test phase
+  remotes/upstream/master                                               40e8ca0d2be media-libs/opencv: add missing patch
+  remotes/upstream/repoman                                              d5dafa761b7 metadata/repoman/repository.yml: New config
+  remotes/upstream/sep-usr                                              fc357e4232b dev-libs/libpcre: switch to sep-usr eclass
