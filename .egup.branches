@@ -1,4 +1,6 @@
-  compiz-2017oct23                                                      a5f04562d35 x11-wm/compiz-meta: Add live ebuild
+  compiz-2017oct23                                                      b74569199a0 x11-wm/compiz-meta: Add live ebuild
+  compiz-rebased-2018apr25                                              a5f04562d35 x11-wm/compiz-meta: Add live ebuild
+  compiz-rebased-2018apr25n2                                            a5f04562d35 x11-wm/compiz-meta: Add live ebuild
   compiz-rebased-2018feb05                                              903507cd000 x11-wm/compiz-meta: Add live ebuild
   compiz-rebased-2018feb06                                              632e74c9107 x11-wm/compiz-meta: Add live ebuild
   compiz-rebased-2018feb07                                              632a2bbf5c2 x11-wm/compiz: Update to version 0.8.14
@@ -20,7 +22,7 @@
   remotes/origin/2018jan12n4-compiz-rebased                             60dc2856e5b x11-wm/compiz-meta: Add live ebuild
   remotes/origin/2018jan12n5-compiz-rebased                             308fda9e3db x11-wm/compiz-meta: Add live ebuild
   remotes/origin/HEAD                                                   -> origin/master
-  remotes/origin/compiz-2017oct23                                       a5f04562d35 x11-wm/compiz-meta: Add live ebuild
+  remotes/origin/compiz-2017oct23                                       b74569199a0 x11-wm/compiz-meta: Add live ebuild
   remotes/origin/compiz-2018jan11                                       8839d8c2301 merge changes from upstream
   remotes/origin/compiz-2018jan11-backup-diverged-from-origin-2018jan13 fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
   remotes/origin/compiz-2018jan11n2-git-branch-test                     fc23f43bab5 x11-wm/compiz-meta: Add live ebuild
